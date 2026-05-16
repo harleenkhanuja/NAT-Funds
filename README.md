@@ -3,15 +3,14 @@
 <br/>
 
 <pre>
- ███╗   ██╗ █████╗ ████████╗    ███████╗██╗   ██╗███╗   ██╗██████╗ ███████╗
- ████╗  ██║██╔══██╗╚══██╔══╝    ██╔════╝██║   ██║████╗  ██║██╔══██╗██╔════╝
- ██╔██╗ ██║███████║   ██║       █████╗  ██║   ██║██╔██╗ ██║██║  ██║███████╗
- ██║╚██╗██║██╔══██║   ██║       ██╔══╝  ██║   ██║██║╚██╗██║██║  ██║╚════██║
- ██║ ╚████║██║  ██║   ██║       ██║     ╚██████╔╝██║ ╚████║██████╔╝███████║
- ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝       ╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝
+    _   _____  ______   ______   __  ____  ____  ________
+   / | / / _ \/_  __/  / ____/  / / / / | / / / / / ____/
+  /  |/ / /_\ \/ /    / /_     / / / /  |/ / / / /___ \  
+ / /|  / ____// /    / __/    / /_/ / /|  / /_/ /____/ /  
+/_/ |_/_/    /_/    /_/       \____/_/ |_/\____/_____/   
 </pre>
 
-### Institutional-grade mutual fund analytics.
+### Institutional-grade mutual fund analytics. For everyone.
 
 <br/>
 
@@ -349,6 +348,9 @@ Everything else — the metrics, the API, the SPA routing — was straightforwar
 
 **Made by [Harleen Khanuja](https://www.linkedin.com/in/harleenkhanuja/)**
 
+BCA @ MIT-WPU Pune &nbsp;·&nbsp; [harleenkhanuja199@gmail.com](mailto:harleenkhanuja199@gmail.com)
+
+*This project is for informational and educational purposes only.*  
 *Not financial advice. Always consult a SEBI-registered advisor before investing.*
 
 </div>
